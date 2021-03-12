@@ -1,0 +1,24 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Monokai",
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 10,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.shell.windows": "C:\\laragon\\bin\\cmder\\cmder.bat",
+    "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
+    "workbench.startupEditor": "newUntitledFile",
+    "blade.format.enable": true,
+    "git.path": "C:\\laragon\\git\\bin\\git.exe",
+    "git.confirmSync": false,
+    "terminal.integrated.rendererType": "dom"
+}
