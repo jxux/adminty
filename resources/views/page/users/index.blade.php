@@ -37,7 +37,7 @@
         <div class="card-block">
             {{-- {{ session('status') }} --}}
             <p>
-                "Texto dentro del homessss"
+                "del usuario"
             </p>
         </div>
     </div>
